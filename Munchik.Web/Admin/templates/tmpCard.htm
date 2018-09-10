@@ -1,0 +1,29 @@
+﻿{#foreach $T as rs}
+        <div class="grid">
+            <div class="all to-do" style="position: relative; width:100%; display:table-cell">
+                <div class="solve_lt">
+                    {$T.rs.DisplayName}
+                </div>
+                <div class="solve_mdl">
+                     
+                                 
+                            <span>
+                                {#if $T.rs.IsPublic=='1'}
+                                Published
+                                {#elseif $T.rs.IsPublic=='0'}
+                                Not Published
+                                {#/if}
+                            </span>
+                            
+                </div>
+                <div class="solve_rt" > 
+                            
+                        <!--<figure>
+                            <img src="/images/more_icon1.png" alt="more_icon1" id="CA_imgMenu_{$T.rs.SolveSpaceID}" IsSelfAssigned="{$T.rs.IsSelfAssigned}" class="img-responsive CA_UserMenu" height="15" width="5" style="cursor:pointer;">
+                        </figure>-->
+                </div>
+
+            </div>
+        </div>
+		<div class="clearfix"></div>
+{#/for}

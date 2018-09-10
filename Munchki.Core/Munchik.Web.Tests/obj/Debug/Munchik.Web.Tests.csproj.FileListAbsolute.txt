@@ -1,0 +1,14 @@
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\bin\Debug\Munchik.Web.Tests.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\bin\Debug\Munchik.Web.Tests.pdb
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\obj\Debug\Munchik.Web.Tests.csprojResolveAssemblyReference.cache
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\obj\Debug\Munchik.Web.Tests.csproj.CoreCompileInputs.cache
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\obj\Debug\Munchik.Web.Tests.csproj.CopyComplete
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\obj\Debug\Munchik.Web.Tests.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchik.Web.Tests\obj\Debug\Munchik.Web.Tests.pdb

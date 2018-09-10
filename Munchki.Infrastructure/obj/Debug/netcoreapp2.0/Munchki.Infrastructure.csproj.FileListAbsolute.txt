@@ -1,0 +1,12 @@
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\bin\Debug\netcoreapp2.0\Munchki.Infrastructure.deps.json
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\bin\Debug\netcoreapp2.0\Munchki.Infrastructure.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\obj\Debug\netcoreapp2.0\Munchki.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\obj\Debug\netcoreapp2.0\Munchki.Infrastructure.AssemblyInfoInputs.cache
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\obj\Debug\netcoreapp2.0\Munchki.Infrastructure.AssemblyInfo.cs
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\obj\Debug\netcoreapp2.0\Munchki.Infrastructure.csprojResolveAssemblyReference.cache
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\bin\Debug\netcoreapp2.0\Munchki.Infrastructure.pdb
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\bin\Debug\netcoreapp2.0\Munchki.Core.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\bin\Debug\netcoreapp2.0\Munchki.Core.pdb
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\obj\Debug\netcoreapp2.0\Munchki.Infrastructure.csproj.CopyComplete
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\obj\Debug\netcoreapp2.0\Munchki.Infrastructure.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Infrastructure\obj\Debug\netcoreapp2.0\Munchki.Infrastructure.pdb

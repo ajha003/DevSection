@@ -1,0 +1,9 @@
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchki.Core\bin\Debug\netcoreapp2.0\Munchki.Core.deps.json
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchki.Core\bin\Debug\netcoreapp2.0\Munchki.Core.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchki.Core\bin\Debug\netcoreapp2.0\Munchki.Core.pdb
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchki.Core\obj\Debug\netcoreapp2.0\Munchki.Core.csproj.CoreCompileInputs.cache
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchki.Core\obj\Debug\netcoreapp2.0\Munchki.Core.AssemblyInfoInputs.cache
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchki.Core\obj\Debug\netcoreapp2.0\Munchki.Core.AssemblyInfo.cs
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchki.Core\obj\Debug\netcoreapp2.0\Munchki.Core.dll
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchki.Core\obj\Debug\netcoreapp2.0\Munchki.Core.pdb
+C:\DATA\Projects2018\Waqar\DevSection\Munchki.Core\Munchki.Core\obj\Debug\netcoreapp2.0\Munchki.Core.csprojResolveAssemblyReference.cache
